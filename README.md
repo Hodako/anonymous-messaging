@@ -28,7 +28,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/username/anonymous-messaging.git
+git clone (https://github.com/Hodako/anonymous-messaging.git)
 cd anonymous-messaging
 
 
